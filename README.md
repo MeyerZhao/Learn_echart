@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # learn_echart
 
 ## Project setup
@@ -26,8 +26,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# Learn_echart
->>>>>>> 67f4ba53c6a86f66269e7f60f5c2450281b8bf08
+
